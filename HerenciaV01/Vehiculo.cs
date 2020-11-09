@@ -15,9 +15,17 @@ namespace HerenciaV01 {
             Modelo = modelo;
         }
 
-        public Vehiculo(int marca)
+        public void Arrancar()
         {
-            
+            Console.WriteLine("La moto aranca");
+        }
+        public void Acelerar()
+        {
+            Console.WriteLine("La moto acelera");
+        }
+        public void Apagar()
+        {
+            Console.WriteLine("La moto para");
         }
     }
 }

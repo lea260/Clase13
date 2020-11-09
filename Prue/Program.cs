@@ -10,9 +10,10 @@ namespace Prue {
     class Program {
         static void Main(string[] args)
         {
-            Moto moto = new Coche("honda", "gtx","2 ruedas");
-            Coche coche = new Coche("jumbo", "jum2",1000);
-            Console.WriteLine(moto.Marca);
+            Moto moto = new Moto("honda", "gtx",1000);
+            Coche coche = new Coche("jumbo", "jum2", "2 ruedas");
+            Vehiculo vehiculo = (Vehiculo)moto;
+            Console.WriteLine(vehiculo.Marca);
             Console.WriteLine(moto.Modelo);
             Console.ReadKey();
         }

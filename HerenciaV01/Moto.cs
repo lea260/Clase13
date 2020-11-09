@@ -12,19 +12,14 @@ namespace HerenciaV01 {
         {
         
         }
-
-
-        public void Arrancar()
+        //new sobreescribe el metodo arrancar, de vehiculo
+        public new void Arrancar()
         {
             Console.WriteLine("La moto aranca");
         }
-        public void Acelerar()
-        {
-            Console.WriteLine("La moto acelera");
-        }
-        public void Apagar()
-        {
-            Console.WriteLine("La moto para");
-        }
+
+
+
+
     }
 }

@@ -5,19 +5,13 @@ namespace HerenciaV01 {
     public class Moto : Vehiculo 
     {
          
-        public int NumeroRuedas { get; set; }
+        public int Cilindrada { get; set; }
         public decimal Altura { get; set; }
 
-        public Moto(string marca, string modelo ) :base(marca, modelo)
+        public Moto(string marca, string modelo, int cilindrada ) :base(marca, modelo)
         {
         
         }
-
-        public Moto(string marca) : base(marca)
-        {
-
-        }
-
 
 
         public void Arrancar()

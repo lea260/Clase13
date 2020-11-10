@@ -44,17 +44,24 @@ namespace HerenciaV01
         {
             return 1;
         }*/
-
+        /// <summary>
+        /// si this precede a other, this retorno <0 
+        /// 
+        /// </summary>
+        /// <param name="other"></param>
+        /// <returns></returns>
         public int CompareTo(Vehiculo other)
         {
+            //if el id de la primera es menor que other retorno -1,
+            //this precede
             int retornar=0;
             if (this.Id < other.Id)
             {
-                retornar = 1;
+                retornar = -1;
             }
             else if (this.Id> other.Id)
             {
-                retornar = -1;
+                retornar = 1;
             }
             else
             {

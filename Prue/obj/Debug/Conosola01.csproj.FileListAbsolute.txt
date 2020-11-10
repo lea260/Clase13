@@ -8,3 +8,5 @@ C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\obj\Debug\Conosola01.c
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\HerenciaV01.dll
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\HerenciaV01.pdb
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\obj\Debug\Conosola01.csproj.CopyComplete
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\ClaseAbstracta.dll
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\ClaseAbstracta.pdb

@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ClaseAbstracta">
+      <HintPath>..\ClaseAbstracta\bin\Debug\netstandard2.0\ClaseAbstracta.dll</HintPath>
+    </Reference>
     <Reference Include="HerenciaV01">
       <HintPath>..\HerenciaV01\bin\Debug\netstandard2.0\HerenciaV01.dll</HintPath>
     </Reference>

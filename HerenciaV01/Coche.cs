@@ -10,10 +10,10 @@ namespace HerenciaV01 {
         {
             Traccion = traccion;
         }
-        
-        
-        
-
-
+                
+        public override void Acelerar()
+        {
+            Console.WriteLine("El coche acelera arranca");
+        }
     }
 }

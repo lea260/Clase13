@@ -1,0 +1,8 @@
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\bin\Debug\netstandard2.0\ClaseAbstracta.deps.json
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\bin\Debug\netstandard2.0\ClaseAbstracta.dll
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\bin\Debug\netstandard2.0\ClaseAbstracta.pdb
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\obj\Debug\netstandard2.0\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\obj\Debug\netstandard2.0\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\obj\Debug\netstandard2.0\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\obj\Debug\netstandard2.0\ClaseAbstracta.dll
+C:\Users\leandro\Documents\Programacion3\clase12\OOP\ClaseAbstracta\obj\Debug\netstandard2.0\ClaseAbstracta.pdb

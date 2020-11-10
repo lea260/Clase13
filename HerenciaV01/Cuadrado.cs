@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HerenciaV01
 {
-    public sealed class Cuadrado : IFigura
+    public sealed class Cuadrado us: IFigura
     {
         readonly decimal lado;
 

@@ -23,12 +23,13 @@ namespace HerenciaV01
         {
             Id = id;
             Marca = marca;
-            Modelo = modelo;
+            Modelo = modelo;            
         }
 
         public void Arrancar()
         {
             Console.WriteLine("El vehiculo arranca");
+            
         }
         //virtual, el metodo se puede redefinir sobreescribir (enn clase hija)
         public virtual void Acelerar()

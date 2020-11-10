@@ -4,12 +4,15 @@ using System.Text;
 
 namespace HerenciaV01
 {
-    public class Cuadrado: IFigura
+    public sealed class Cuadrado : IFigura
     {
         readonly decimal lado;
 
+        public readonly int hola;
+
         public Cuadrado(decimal lado)
         {
+            hola = 10;
             this.lado = lado;
         }
 

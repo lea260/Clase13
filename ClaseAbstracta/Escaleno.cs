@@ -8,11 +8,13 @@ namespace ClaseAbstracta
     {
         public override decimal Area()
         {
+            //no lo defini
             throw new NotImplementedException();
         }
 
         public override decimal Perimetro()
         {
+            //no lo defini
             throw new NotImplementedException();
         }
     }

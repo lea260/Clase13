@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfcxFxDnaHsj50k3HgkV83pTmjDlEFCUMwjm02cOyoAHKIiucWrptGdNRsOQFTRZiQQ2K2GypDLaMTG2gsEp8Q==",
+  "dgSpecHash": "6rq/TLID3iZQj8WXhT819uL0yA2jB+wvdXPfFAFiOpAslGVZ8c/CDEpJM8U4jiHCxf5E/mwc3bzvzN77Q/zK7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase12\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
+  "projectFilePath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase13\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leandro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\leandro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

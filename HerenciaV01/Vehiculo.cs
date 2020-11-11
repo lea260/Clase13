@@ -8,10 +8,13 @@ namespace HerenciaV01
     {
         //public decimal VelocidadMaxima { get; set; }
         //public int NumeroRuedas { get; set; }
-        public int Id { get; set; }
-        public string Marca { get; set; }
-        public string Modelo { get; set; }
-        
+        private int id;
+        private string marca;
+        private string modelo;
+
+        public int Id { get => id; set => id = value; }
+        public string Marca { get => marca; set => marca = value; }
+        public string Modelo { get => modelo; set => modelo = value; }
 
         public Vehiculo(string marca, string modelo) 
         {            

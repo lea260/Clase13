@@ -4,9 +4,12 @@ using System.Threading;
 namespace HerenciaV01 {
     public class Moto : Vehiculo 
     {
-         
-        public int Cilindrada { get; set; }
-        public decimal Altura { get; set; }
+
+        private int cilindrada;
+        private decimal altura;
+
+        public int Cilindrada { get => cilindrada; set => cilindrada = value; }
+        public decimal Altura { get => altura; set => altura = value; }
 
         public Moto(string marca, string modelo, int cilindrada) : base(marca, modelo)
         {

@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leandro\\Documents\\Programacion3\\clase12\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
+      "projectUniqueName": "C:\\Users\\leandro\\Documents\\Programacion3\\clase13\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
       "projectName": "ClaseAbstracta",
-      "projectPath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase12\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
+      "projectPath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase13\\OOP\\ClaseAbstracta\\ClaseAbstracta.csproj",
       "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase12\\OOP\\ClaseAbstracta\\obj\\",
+      "outputPath": "C:\\Users\\leandro\\Documents\\Programacion3\\clase13\\OOP\\ClaseAbstracta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

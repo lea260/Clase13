@@ -17,13 +17,7 @@ namespace PruebaFinal.Clases
             this.nombre = nombre;
             this.apellido = apellido;
             this.antiguedad = antiguedad;
-        }
-        
-        //public int Edad { get => edad; set => edad = value; }
-
-
-
-        //public abstract decimal CalcularSueldo();
+        }    
     }
-    
+
 }

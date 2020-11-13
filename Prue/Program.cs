@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using HerenciaV01.Modulos;
 
-namespace Conosola01
+namespace ConsolaV02
 {
     class Program {
         static void Main(string[] args)
@@ -47,10 +47,8 @@ namespace Conosola01
             }
             List<IFigura> list = new List<IFigura>();
 
-
-
-
             Console.ReadKey();
+
         }
     }
 }

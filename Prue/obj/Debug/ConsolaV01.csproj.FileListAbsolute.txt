@@ -1,0 +1,12 @@
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.exe.config
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.exe
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\ClaseAbstracta.dll
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\HerenciaV01.dll
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\ClaseAbstracta.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\HerenciaV01.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\ConsolaV01.csprojAssemblyReference.cache
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\ConsolaV01.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\ConsolaV01.csproj.CopyComplete
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.exe
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.pdb

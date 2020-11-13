@@ -7,14 +7,17 @@ namespace PruebaFinal.Clases
     public class Jornalero : Empleado
     {
         public int diasTrabajos;
-        public double jornal;
-        public Jornalero(int edad, string nombre, string apellido) : base(edad, nombre, apellido)
+        public static decimal jornal=100;
+        public Jornalero(int edad, string nombre, string apellido, int diasTrabajados) : 
+            base(edad, nombre, apellido)
         {
+            this.diasTrabajos = diasTrabajados;
         }
 
-        public override double CalcularSueldo()
+        public override decimal CalcularSueldo()
         {
-            return jornal * diasTrabajos;
+            decimal salario= diasTrabajos*jornal;
+            return salario;
         }
     }
 }

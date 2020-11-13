@@ -1,0 +1,10 @@
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\bin\Debug\HerenciaFinal.exe.config
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\bin\Debug\HerenciaFinal.exe
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\bin\Debug\HerenciaFinal.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\bin\Debug\PruebaFinal.dll
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\bin\Debug\PruebaFinal.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\obj\Debug\ConsolaV02.csprojAssemblyReference.cache
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\obj\Debug\ConsolaV02.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\obj\Debug\ConsolaV02.csproj.CopyComplete
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\obj\Debug\HerenciaFinal.exe
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\HerenciaFinal\obj\Debug\HerenciaFinal.pdb

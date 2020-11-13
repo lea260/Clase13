@@ -22,3 +22,5 @@ C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.c
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csproj.CopyComplete
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.exe
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\PruebaFinal.dll
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\PruebaFinal.pdb

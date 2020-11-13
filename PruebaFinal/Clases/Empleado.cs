@@ -15,7 +15,7 @@ namespace PruebaFinal.Clases
             this.nombre = nombre;
             this.apellido = apellido;
         }
-        public abstract double CalcularSueldo();
+        public abstract decimal CalcularSueldo();
     }
     
 }

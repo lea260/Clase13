@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HerenciaV01;
-
+using HerenciaV01.Modulos;
 
 namespace Conosola01
 {
@@ -46,7 +45,9 @@ namespace Conosola01
             {
                 Console.WriteLine($"id:{item.Id} marca:{item.Marca}modelo{item.Modelo}");
             }
-            
+            List<IFigura> list = new List<IFigura>();
+
+
 
 
             Console.ReadKey();

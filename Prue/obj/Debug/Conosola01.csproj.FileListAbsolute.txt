@@ -10,10 +10,6 @@ C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\HerenciaV01.
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\obj\Debug\Conosola01.csproj.CopyComplete
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\ClaseAbstracta.dll
 C:\Users\leandro\Documents\Programacion3\clase12\OOP\Prue\bin\Debug\ClaseAbstracta.pdb
-C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csprojAssemblyReference.cache
-C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csproj.CoreCompileInputs.cache
-C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.exe
-C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.pdb
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.exe.config
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.exe
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\Prue.pdb
@@ -21,4 +17,8 @@ C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\ClaseAbstrac
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\HerenciaV01.dll
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\ClaseAbstracta.pdb
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\bin\Debug\HerenciaV01.pdb
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csprojAssemblyReference.cache
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csproj.CoreCompileInputs.cache
 C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Conosola01.csproj.CopyComplete
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.exe
+C:\Users\leandro\Documents\Programacion3\clase13\OOP\Prue\obj\Debug\Prue.pdb

@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Threading;
 
-namespace HerenciaV01 {
+namespace HerenciaV01.Modulos
+{
     public class Moto : Vehiculo 
     {
-
-        private int cilindrada;
-        private decimal altura;
-
-        public int Cilindrada { get => cilindrada; set => cilindrada = value; }
-        public decimal Altura { get => altura; set => altura = value; }
+         
+        public int Cilindrada { get; set; }
+        public decimal Altura { get; set; }
 
         public Moto(string marca, string modelo, int cilindrada) : base(marca, modelo)
         {

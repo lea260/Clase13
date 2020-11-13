@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HerenciaV01
+namespace HerenciaV01.Modulos
 {
     public interface IFigura
     {

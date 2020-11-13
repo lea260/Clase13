@@ -1,20 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace HerenciaV01
+namespace HerenciaV01.Modulos
 {
     //IComparable
     public class Vehiculo : IComparable<Vehiculo>
     {
         //public decimal VelocidadMaxima { get; set; }
         //public int NumeroRuedas { get; set; }
-        private int id;
-        private string marca;
-        private string modelo;
-
-        public int Id { get => id; set => id = value; }
-        public string Marca { get => marca; set => marca = value; }
-        public string Modelo { get => modelo; set => modelo = value; }
+        public int Id { get; set; }
+        public string Marca { get; set; }
+        public string Modelo { get; set; }
+        
 
         public Vehiculo(string marca, string modelo) 
         {            

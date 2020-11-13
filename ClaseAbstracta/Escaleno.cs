@@ -1,20 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ClaseAbstracta;
 
-namespace ClaseAbstracta
+namespace HerenciaV01.Modulos
 {
     public class Escaleno : TrianguloBase
     {
+
+        public Escaleno(int ladoA,int ladoB,int ladoC): base(ladoA,ladoB,ladoC)
+        {
+
+        }
         public override decimal Area()
         {
-            //no lo defini
             throw new NotImplementedException();
         }
 
         public override decimal Perimetro()
         {
-            //no lo defini
             throw new NotImplementedException();
         }
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PruebaFinal.Clases
 {
-    public class Mensual : Empleado, IEmpleado
+    public class Mensual : Empleado, IEmpleado, IBolson
     {
         public decimal sueldoMensual;
         public Mensual(int edad, string nombre, string apellido) : 
@@ -20,8 +20,25 @@ namespace PruebaFinal.Clases
 
         public decimal CalcularSueldo()
         {
-            return sueldoMensual;
+            decimal salario = sueldoMensual;
+            if (GanaBolson())
+            {
+                salario += bolson;
+            }
+            return salario;
         }
+
+        public bool GanaBolson()
+        {
+            bool bolson = false;
+            if (base.antiguedad > 5)
+            {
+                bolson = true;
+            }
+            return bolson;
+        }
+
+
     }
 
 }

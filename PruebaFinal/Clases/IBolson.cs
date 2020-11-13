@@ -4,8 +4,8 @@ using System.Text;
 
 namespace PruebaFinal.Clases
 {
-    public interface IEmpleado
+    public interface IBolson
     {
-        decimal CalcularSueldo();       
+        bool GanaBolson();
     }
 }

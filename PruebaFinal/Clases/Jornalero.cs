@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PruebaFinal.Clases
+﻿namespace PruebaFinal.Clases
 {
-    public class Jornalero : Empleado, IEmpleado
-    {
-        public int diasTrabajos;
+    public class Jornalero : Empleado, IEmpleado, IBolson 
+    {       
+        private int diasTrabajos;
         public static decimal jornal=100;
-        public Jornalero(int edad, string nombre, string apellido, int diasTrabajados) : 
+        public Jornalero(int edad, string nombre, string apellido, 
+            int diasTrabajados) : 
             base(edad, nombre, apellido)
         {
             this.diasTrabajos = diasTrabajados;
@@ -16,8 +13,24 @@ namespace PruebaFinal.Clases
 
         public decimal CalcularSueldo()
         {
-            decimal salario= diasTrabajos*jornal;
+            decimal salario = diasTrabajos * jornal;
+            if (GanaBolson())
+            {
+                salario += bolson;
+            }
+
             return salario;
         }
+
+        public bool GanaBolson()
+        {
+            bool bolson = false;
+            if (base.antiguedad > 3)
+            {
+                bolson = true;
+            }
+            return bolson;
+        }
+
     }
 }

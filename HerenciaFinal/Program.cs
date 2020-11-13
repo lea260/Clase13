@@ -19,7 +19,7 @@ namespace ConsolaV02
             Jornalero.jornal = 200;
             foreach (var item in listEmpleados)
             {
-                sueldoTotal += item.CalcularSueldo();
+                sueldoTotal += item.CalcularSueldo();                
             }
             Console.WriteLine("----------------sueldo------------------");
             Console.WriteLine("sueldo: "+sueldoTotal.ToString());

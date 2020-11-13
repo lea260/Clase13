@@ -2,7 +2,7 @@
 
 namespace PruebaFinal.Clases
 {
-    public abstract class Empleado
+    public abstract class Empleado 
     {
         private int edad;
         private string nombre;
@@ -15,7 +15,7 @@ namespace PruebaFinal.Clases
             this.nombre = nombre;
             this.apellido = apellido;
         }
-        public abstract decimal CalcularSueldo();
+        //public abstract decimal CalcularSueldo();
     }
     
 }

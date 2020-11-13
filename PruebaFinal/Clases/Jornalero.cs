@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PruebaFinal.Clases
 {
-    public class Jornalero : Empleado
+    public class Jornalero : Empleado, IEmpleado
     {
         public int diasTrabajos;
         public static decimal jornal=100;
@@ -14,7 +14,7 @@ namespace PruebaFinal.Clases
             this.diasTrabajos = diasTrabajados;
         }
 
-        public override decimal CalcularSueldo()
+        public decimal CalcularSueldo()
         {
             decimal salario= diasTrabajos*jornal;
             return salario;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PruebaFinal.Clases
 {
-    public class Mensual : Empleado
+    public class Mensual : Empleado, IEmpleado
     {
         public decimal sueldoMensual;
         public Mensual(int edad, string nombre, string apellido) : 
@@ -18,7 +18,7 @@ namespace PruebaFinal.Clases
             this.sueldoMensual = sueldoMensual;
         }
 
-        public override decimal CalcularSueldo()
+        public decimal CalcularSueldo()
         {
             return sueldoMensual;
         }
